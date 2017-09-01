@@ -6,6 +6,7 @@ Android实现动态修改应用桌面图标和名称
  ![image](https://github.com/Vension/ChangeAppIcon/blob/master/ScreenShots/Screenshot_1504233093.png?raw=true)
  ![image](https://github.com/Vension/ChangeAppIcon/blob/master/ScreenShots/device-2017-09-01-104923.png?raw=true)
  ![image](https://github.com/Vension/ChangeAppIcon/blob/master/ScreenShots/device-2017-09-01-104938.png?raw=true)
+ ![image](https://github.com/Vension/ChangeAppIcon/blob/master/ScreenShots/ezgif.com-video-to-gif.gif)
 ---------------------------------------
 我们知道，我们每写一个 Activity就要在AndroidManifest进行配置一下，我们才可以正常的启动它，除此之外，我们还可以对它设置一个别名，也就是用<activity-alias>标签，这个标签的属性，和<activity>的属性一致，可以做一个简单的分析：
 
